@@ -1,5 +1,5 @@
 
-Here are some ideas to get you started:
+![](images/IvanFanelloDesign.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
