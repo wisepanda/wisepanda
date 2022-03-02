@@ -2,6 +2,9 @@
 <img src="images/design2.png">
 
 
+  
+ 
+ 
 # Ciao! 👋🖖
 
 
@@ -12,6 +15,12 @@ My Name is Ivan and after working as a manager in bars and restaurants for the l
 
 I have just finished School of code's bootcamp and now I feel ready for a position in tech. 👨‍💻
 
+
+  <a href="https://www.linkedin.com/in/ivan-fanello-25b344230/" title="linkedin-redirect">
+    <img src="images/linkedin-icon.png" width="30" height="30" (https://www.linkedin.com/in/ivan-fanello-25b344230/)>
+  </a>
+  
+  
 ---------------------------
 ## Tech Stack:
 
