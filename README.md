@@ -1,7 +1,6 @@
 
-<!-- ![](images/IvanFanelloDesign.png) -->
 
-<img src="images/IvanFanelloDesign.png" height="510" width="1012">
+<img src="images/design2.png">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
