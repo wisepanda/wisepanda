@@ -7,13 +7,12 @@
 
 Thank you for visiting my profile!
 
-My Name is Ivan and after working as a manager in bars and restaurants for the last six year I decided to change my life completely to follow my dream of working in tech. 🔌 💻
+My Name is Ivan and after working as a manager in bars and restaurants for the last six year I decided to change my life completely to follow my dreams. 🔌 💻
 
 
 I have just finished School of code's bootcamp and now I feel ready for a position in tech. 👨‍💻
 
-
-----------------------
+---------------------------
 ## Tech Stack:
 
 
@@ -21,3 +20,13 @@ I have just finished School of code's bootcamp and now I feel ready for a positi
 
 
 ------------------------
+
+## My Passions
+
+
+
+------------------------
+
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisepanda&hide=issues,stars&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/wisepanda/github-readme-stats)
+
+
