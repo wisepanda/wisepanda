@@ -17,7 +17,10 @@ I have just finished School of code's bootcamp and now I feel ready for a positi
 
 
   <a href="https://www.linkedin.com/in/ivan-fanello-25b344230/" title="linkedin-redirect">
-    <img src="images/linkedin-icon.png" width="30" height="30" (https://www.linkedin.com/in/ivan-fanello-25b344230/)>
+    <img src="images/linkedin-icon.png" width="30" height="30">
+  </a> 
+  <a href="mailto:ivan.fanello@gmail.com/" title="email-redirect">
+    <img src="images/Mail-icon.png" width="30" height="30">
   </a>
   
   
