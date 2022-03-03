@@ -13,7 +13,7 @@ Thank you for visiting my profile!
 My Name is Ivan, after working as a manager in bars and restaurants for the last six year I decided to challenge myself and change my life completely to follow my dreams. 🔌 💻
 
 
-I have just finished School of code's bootcamp and I feel ready for a position in tech. # 👨‍💻
+I have just finished School of code's bootcamp and I feel ready for a position in tech. 👨‍💻
 
 
 Get in Touch!
