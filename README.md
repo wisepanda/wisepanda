@@ -15,7 +15,7 @@
 #### I have just finished School of code's bootcamp and I feel ready for a position in tech. 👨‍💻
 
 
-## Get in Touch! 📧 📭
+## 📭 Get in Touch! 📧
 
   <a href="https://www.linkedin.com/in/ivan-fanello-25b344230/" title="linkedin-redirect">
     <img src="images/linkedin-icon.png" width="35" height="35">
