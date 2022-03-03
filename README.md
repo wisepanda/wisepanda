@@ -31,7 +31,9 @@
 ## Tech Stack
 
 
-![](https://img.shields.io/badge/Frontend-React-blue) ![](https://img.shields.io/badge/Frontend-Javascript-blue) ![](https://img.shields.io/badge/Frontend-CSS-blue) ![](https://img.shields.io/badge/Frontend-HTML-blue) ![](https://img.shields.io/badge/Beckend-NodeJs-green) ![](https://img.shields.io/badge/Beckend-postgreSQL-green) 
+![](https://img.shields.io/badge/Frontend-React-blue) ![](https://img.shields.io/badge/Frontend-Javascript-blue) ![](https://img.shields.io/badge/Frontend-CSS-blue) ![](https://img.shields.io/badge/Frontend-HTML-blue) 
+
+![](https://img.shields.io/badge/Beckend-NodeJs-green) ![](https://img.shields.io/badge/Beckend-postgreSQL-green) ![](https://img.shields.io/badge/Beckend-Express-green)
 
 ![](https://img.shields.io/badge/Testing-Jest-yellow) ![](https://img.shields.io/badge/Testing-Cypress-yellow)
 
