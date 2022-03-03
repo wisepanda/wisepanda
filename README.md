@@ -4,29 +4,30 @@
 
   
  
+ # 🖥 Ciao! 👋🖖
  
-# Ciao! 👋🖖
+
+#### Thank you for visiting my profile!
+
+#### My Name is Ivan, after working as a manager in bars and restaurants for the last six year I decided to challenge myself and change my life completely to follow my dreams. 🔌 💻
 
 
-Thank you for visiting my profile!
-
-My Name is Ivan, after working as a manager in bars and restaurants for the last six year I decided to challenge myself and change my life completely to follow my dreams. 🔌 💻
+#### I have just finished School of code's bootcamp and I feel ready for a position in tech. 👨‍💻
 
 
-I have just finished School of code's bootcamp and I feel ready for a position in tech. 👨‍💻
-
-
-Get in Touch!
+## Get in Touch! 📧 📭
 
   <a href="https://www.linkedin.com/in/ivan-fanello-25b344230/" title="linkedin-redirect">
-    <img src="images/linkedin-icon.png" width="30" height="30">
+    <img src="images/linkedin-icon.png" width="35" height="35">
   </a> 
   <a href="mailto:ivan.fanello@gmail.com/" title="email-redirect">
-    <img src="images/Mail-icon.png" width="30" height="30">
+    <img src="images/Mail-icon.png" width="35" height="35">
   </a>
   
   
----------------------------
+--------------------------
+
+
 ## Tech Stack:
 
 
@@ -38,7 +39,11 @@ Get in Touch!
 
 ------------------------
 
+
 ## My Passions
+
+
+#### || 🎮 Gaming 👾 || 🎥 Cinema 📺 || 🎸 Music 🎤 || 💥 Comics 💭 || 🍸 Food&Drinks 🍕 || ⚽ Sports 🎾 || 🐉 Fantasy 👽 || 🗺 Travelling || 
 
 
 
