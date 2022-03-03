@@ -49,6 +49,6 @@
 
 ------------------------
 
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisepanda&hide=issues,stars&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/wisepanda/github-readme-stats)
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisepanda&hide=issues,stars&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/wisepanda/github-readme-stats)
 
 
