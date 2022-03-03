@@ -32,9 +32,11 @@
 
 
 ![](https://img.shields.io/badge/Frontend-React-blue) ![](https://img.shields.io/badge/Frontend-Javascript-blue) ![](https://img.shields.io/badge/Frontend-CSS-blue) ![](https://img.shields.io/badge/Frontend-HTML-blue) ![](https://img.shields.io/badge/Beckend-NodeJs-green) ![](https://img.shields.io/badge/Beckend-postgreSQL-green) 
+
 ![](https://img.shields.io/badge/Testing-Jest-yellow) ![](https://img.shields.io/badge/Testing-Cypress-yellow)
 
-![](https://img.shields.io/badge/Deployment-Netlify-orange) ![](https://img.shields.io/badge/Deployment-Heroku-orange) 
+![](https://img.shields.io/badge/Deployment-Netlify-orange) ![](https://img.shields.io/badge/Deployment-Heroku-orange)
+
 ![](https://img.shields.io/badge/Design-Figma-blueviolet) ![](https://img.shields.io/badge/Design-Canva-blueviolet) ![](https://img.shields.io/badge/Design-Miro-blueviolet) 
 
 
