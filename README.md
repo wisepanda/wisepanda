@@ -43,7 +43,7 @@
 ## Passions & Hobbies
 
 
-#### || 🎮 Gaming 👾 || 🎥 Cinema 📺 || 🎸 Music 🎤 || 💥 Comics 💭 || 🍸 Food&Drinks 🍕 || ⚽ Sports 🎾 || 🐉 Fantasy 👽 || 🗺 Travelling || 
+#### || 🎮 Gaming 👾 || 🎥 Cinema 📺 || 🎸 Music 🎤 || 💥 Comics  🦸🏻‍♂️ || ⚽ Sports 🎾 || 🐉 Fantasy 🧙🏻 || 🗺 Travelling ✈️ || 
 
 
 
