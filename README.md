@@ -1,5 +1,5 @@
 
-<img src="images/design2.png">
+<img src="images/Design-fullstack.png">
 
 
   
